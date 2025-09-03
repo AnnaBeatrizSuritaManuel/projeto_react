@@ -1,0 +1,9 @@
+.FraseContainer{
+    background-color: black;
+    border: 1px solid #883bab ;
+}
+.FraseConteudo{
+    color: aliceblue;
+    background-color: black;
+    margin: 0;
+}
